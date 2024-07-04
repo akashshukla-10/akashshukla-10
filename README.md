@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Akash Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/akashshukla-10/akashshukla-10/assets/174573357/f02b79b9-ccae-43af-8412-a48443f6d206)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashshukla-10&label=Profile%20views&color=0e75b6&style=flat" alt="akashshukla-10" /> </p>
 
