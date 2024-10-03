@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Akash Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3Evf6nUpLssaPS3VYYsa-Q&ust=1728065748979000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjSuNvo8ogDFQAAAAAdAAAAABAJ"
+<img align="right" alt="coding" width="400" src="![github banner](https://github.com/user-attachments/assets/1866b919-1929-4819-a758-ba5062223c59)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashshukla-10&label=Profile%20views&color=0e75b6&style=flat" alt="akashshukla-10" /> </p>
 
