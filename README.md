@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/89105166-65c6-4255-8cdb-31289d26afae
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/89105166-65c6-4255-8cdb-31289d26af
 
 "
 
